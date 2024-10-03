@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShobithatWork
+- 👋 Hi, I’m @Shobith
 - 👀 I’m interested in Codding,Gamming
 - 🌱 I’m currently learning Flutter
 <!---- 💞️ I’m looking to collaborate on ...
